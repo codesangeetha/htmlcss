@@ -1,0 +1,136 @@
+.facebook-icon {
+    width: 250px;
+    margin: 0;
+}
+
+.part1-p {
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 25px;
+    width: 412px;
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    margin: 0;
+    margin-left: 20px;
+    /* font-family: sans-serif; */
+}
+
+.email-pwd {
+    width: 276px;
+    padding: 14px 16px;
+    font-size: 14px;
+    border-radius: 5px;
+    border: 1px solid #dddfe2;
+    color: #1d212982;
+    font-family: inherit;
+}
+
+/* .pwd-class {
+    width: 330px;
+    padding: 14px 16px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #dddfe2;
+    color: #1d212966;   
+    font-family: inherit;
+} */
+.email-div {
+    margin-bottom: 11px;
+}
+
+.button-class {
+    width: 311px;
+    background-color: #0866ff;
+    padding: 8px 13px;
+    border-radius: 8px;
+    font-family: inherit;
+    color: white;
+    font-size: 18px;
+    font-weight: 39px;
+    font-weight: bold;
+    height: 41px;
+}
+
+.button-div {
+    margin-top: 20px;
+}
+
+.a-div {
+    font-size: 11px;
+    font-family: inherit;
+    padding: 19px 100px;
+    color: #0866ff;
+}
+
+
+.line-div {
+    border-bottom: 1px solid #a49d9d57;
+    width: 310px;
+}
+
+.part2-acls {
+    background-color: #07a207b8;
+    padding: 9px 8px;
+    border-radius: 5px;
+    color: white;
+    font-family: inherit;
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.create-div {
+    padding: 28px 86px;
+}
+
+.a2-div {
+
+    color: #060505;
+    margin-left: 84px;
+    font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
+    font-size: 11px;
+    margin-top: 21px;
+    /* font-weight: normal;
+  padding-top: 0; */
+}
+
+.part2-a2cls {
+    font-family: SFProText-Semibold, Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 11px;
+
+}
+
+.main-cls {
+    display: flex;
+    background-color: #8080801f;
+    height: 350px;
+    padding: 105px 367px;
+}
+
+.main-sub {
+    width: 461px;
+    height: 350px;
+    padding: 40px 0px
+
+}
+
+.borderform-cls {
+    border: 1px solid #0000001c;
+    border-radius: 8px;
+    padding: 7px 9px;
+    background-color: white;
+    margin-left: 36px;
+    width: 321px;
+    opacity: 1.2;
+    box-shadow: 0 0 10px 5px rgba(0, 0, 0, 0.05);
+    height: 278px;
+}
+
+
+.part3 {
+    background-color: aliceblue;
+}
+
+.body-cls {
+    margin: 0;
+}
