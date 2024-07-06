@@ -510,14 +510,14 @@
 
 .box1 {
     padding: 16px;
-  width: 370px;
-  text-align: left;
-  font-size: 20px;
-  color: #262525;
-  background-color: #97876921;
-  margin-bottom: 15px;
-  display: flex;
-  justify-content: space-between;
+    width: 370px;
+    text-align: left;
+    font-size: 20px;
+    color: #262525;
+    background-color: #97876921;
+    margin-bottom: 15px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .box1 svg {
@@ -568,15 +568,29 @@
     display: flex;
     background-color: #c9c9f224;
     justify-content: center;
+    padding: 175px;
+}
+
+.part10 .tenboxcls {
+    margin-left: 60px;
+}
+
+.part10 iframe {
+    width: 520px;
+    height: 356px;
 }
 
 .part10p2 {
     font-size: 37px;
+    line-height: 47px;
+    font-weight: lighter;
+    margin-top: 15px;
 }
 
 .part10p {
     font-size: 37px;
     color: #b34343;
+    margin-bottom: 0px;
 }
 
 .part10text {
