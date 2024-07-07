@@ -59,6 +59,7 @@
     font-family: inherit;
     padding: 19px 100px;
     color: #0866ff;
+    cursor: pointer;
 }
 
 
@@ -75,6 +76,7 @@
     font-family: inherit;
     font-size: 12px;
     font-weight: bold;
+    text-decoration: none;
 }
 
 .create-div {
@@ -97,6 +99,7 @@
     font-weight: bold;
     color: black;
     font-size: 11px;
+    text-decoration: none;
 
 }
 
