@@ -128,9 +128,39 @@
 
 
 .part3 {
-    background-color: aliceblue;
+    margin-left: 600px;
+    color: #847f7f;
+  font-size: 10px;
+}
+
+.section1 {
+    display: flex;
+  
+  padding: 15px 0px 0px 0px;
+  width: 500px;
+}
+
+.section1 div {
+    margin-right: 3px;
 }
 
 .body-cls {
     margin: 0;
+}
+
+.hr-line {
+    width: 600px;
+    border-bottom: 1px solid #0000001c;
+}
+
+.section2 {
+    width: 700px;
+  margin-top: 5px;
+  font-size: 9px;   
+}
+
+.section2 div {
+    float: left;
+    margin-right: 15px;
+    line-height: 17px;
 }

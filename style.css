@@ -604,7 +604,23 @@
     margin-top: 177;
 }
 
-.part11 {}
+.part11 {
+    display: flex;
+    justify-content: flex-start;
+    background-image: url('https://static.licdn.com/aero-v1/sc/h/4ezbw852t2wrgf27zl1o1qtu7');
+    height: 840px;
+}
+
+.part11 .expcolart {
+    text-align: left;
+    line-height: 60px;
+    font-size: 52px;
+}
+
+.part11-data {
+    width: 100%;
+    margin-left: 330px;
+}
 
 .part11p {
     font-size: 53;
@@ -612,22 +628,54 @@
 }
 
 .part11a {
-    border-radius: 113;
-    color: white;
+    font-size: 15px;
     font-weight: bold;
-    background-color: rgba(10, 74, 211, 0.97);
-    border-radius: 39px;
-    padding: 15px;
-    margin-left: 2px;
-}
-
-.part11div {
-    margin-left: 78px;
+    background-color: #0966c3;
+    display: inline-block;
+    color: white;
+    padding: 0px 30px;
+    border-radius: 30px;
 }
 
 .footer {
-    width: 1500;
+    width: 100%;
     background-color: #80808033;
     height: 438px;
-    margin-top: 77px;
+    display: flex;
+    padding: 20px 0px;
+}
+
+.footer-section {
+    margin-left: 330px;
+}
+
+.footer-section svg {
+    width: 100px;
+    background-color: #80808000;
+    color: #0966c3;
+}
+
+.footer-list {
+    text-align: left;
+    margin-left: 180px;
+    font-weight: bold;
+}
+
+.footer-list ul {
+    list-style: none;
+    padding-left: 0px;
+    line-height: 25px;
+    color: #666262;
+}
+
+.footer-end {
+    font-size: 13px;
+}
+
+.footer-end div {
+    display: inline-block;
+  padding: 10px 0px;
+  margin-left: 5px;
+  color: #575353;
+  font-weight: bold;
 }
