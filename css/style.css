@@ -128,16 +128,6 @@
     font-weight: bold;
 }
 
-/* .user {
-    color: rgba(3, 170, 221, 0.966);
-    font-size: 12px;
-}
-
-.boxp2 {
-    color: rgba(3, 170, 221, 0.966);
-    font-size: 12px;
-    margin-left: 95px;
-} */
 
 .or-hr {
     text-align: left;
@@ -205,57 +195,6 @@
     background-color: #0966c3;
 }
 
-/* 
-.signcls {
-
-    background-color: rgba(0, 89, 255, 0.774);
-    color: white;
-    font-weight: bold;
-    width: 360px;
-    display: inline-block;
-    height: 25px;
-    text-align: center;
-    padding: 12px;
-    border-radius: 35px;
-}
-
-.signcls1 {
-    margin-top: 17px;
-    margin-left: 18px;
-}
-
-.lab1 {
-    font-size: 13px;
-    color: #423f3f;
-    margin-left: 19px;
-}
-
-.email {
-    width: 380px;
-    height: 50px;
-    margin-left: 13px;
-    border-radius: 9px;
-    border-color: #0f0e0e;
-    margin-top: 13px;
-    margin-bottom: 19px;
-}
-
-.pwd {
-    width: 380px;
-    height: 50px;
-    margin-left: 13px;
-    border-radius: 9px;
-    border-color: #0f0e0e;
-    margin-top: 13px;
-    margin-bottom: 20px;
-}
-
-.forgot {
-    font-size: 14px;
-    font-weight: bold;
-    margin-left: 21px;
-    color: rgb(10, 74, 211);
-} */
 
 .new {
     width: 400px;
@@ -342,10 +281,6 @@
     justify-content: center;
 }
 
-/* .levenboxclas {
-    margin-top: 29px;
-    margin-left: 95px;
-} */
 
 .padding-part3 {
     padding: 8px 0px 60px 0px;
@@ -674,8 +609,8 @@
 
 .footer-end div {
     display: inline-block;
-  padding: 10px 0px;
-  margin-left: 5px;
-  color: #575353;
-  font-weight: bold;
+    padding: 10px 0px;
+    margin-left: 5px;
+    color: #575353;
+    font-weight: bold;
 }

@@ -11,7 +11,7 @@
     font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
     margin: 0;
     margin-left: 20px;
-    /* font-family: sans-serif; */
+
 }
 
 .email-pwd {
@@ -24,15 +24,6 @@
     font-family: inherit;
 }
 
-/* .pwd-class {
-    width: 330px;
-    padding: 14px 16px;
-    font-size: 16px;
-    border-radius: 5px;
-    border: 1px solid #dddfe2;
-    color: #1d212966;   
-    font-family: inherit;
-} */
 .email-div {
     margin-bottom: 11px;
 }
@@ -90,8 +81,7 @@
     font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
     font-size: 11px;
     margin-top: 21px;
-    /* font-weight: normal;
-  padding-top: 0; */
+
 }
 
 .part2-a2cls {
@@ -114,7 +104,6 @@
     width: 461px;
     height: 350px;
     padding: 40px 0px
-
 }
 
 .borderform-cls {
@@ -133,14 +122,14 @@
 .part3 {
     margin-left: 600px;
     color: #847f7f;
-  font-size: 10px;
+    font-size: 10px;
 }
 
 .section1 {
     display: flex;
-  
-  padding: 15px 0px 0px 0px;
-  width: 500px;
+
+    padding: 15px 0px 0px 0px;
+    width: 500px;
 }
 
 .section1 div {
@@ -158,8 +147,8 @@
 
 .section2 {
     width: 700px;
-  margin-top: 5px;
-  font-size: 9px;   
+    margin-top: 5px;
+    font-size: 9px;
 }
 
 .section2 div {
